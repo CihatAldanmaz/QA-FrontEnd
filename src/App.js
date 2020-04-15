@@ -11,7 +11,7 @@ function App() {
       
       
       <Container fluid>
-      <Row noGutters>
+      <Row>
        <Col md={6}>
         <AppBar/>
         </Col>
