@@ -15,7 +15,7 @@
     "react-dom": "^16.13.1",
     "react-flexbox-grid": "^2.1.2",
     "react-grid": "^4.0.3",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-styled-flexboxgrid": "^3.2.1"
   },
   "scripts": {
